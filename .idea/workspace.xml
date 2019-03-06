@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringReverse/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaSubStringComparisons/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaSubstring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge10/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge10/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge11/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge11/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge12/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge12/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge13/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge13/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge5/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge6/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge7/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge8/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge8/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge9/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge10/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge11/DoNotTerminate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge11/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge11/DoNotTerminate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge11/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge12/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge12/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge13/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge5/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge6/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge7/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge8/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Challenge9/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaAnagrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaAnagrams/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/SimpleArraySum/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTheTriplets/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +76,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringReverse/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaAnagrams/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="27" lean-forward="true" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -198,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaSubstring/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaSubStringComparisons/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringReverse/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaAnagrams/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference/Solution.java" />
       </list>
     </option>
   </component>
@@ -271,6 +252,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="JavaProficiency" type="462c0819:PsiDirectoryNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaAnagrams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaProficiency" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStringsIntroduction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,6 +274,14 @@
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSubstring" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -290,7 +289,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551900456651" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551901221293" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -435,9 +434,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,7 +444,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33152762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -723,8 +721,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringReverse/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaAnagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="27" lean-forward="true" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
