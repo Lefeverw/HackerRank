@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringTokens/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/PatternSyntaChecker/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge7/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge6/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge6/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge9/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge6/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/PatternSyntaChecker/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="272">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,24 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/regex/Pattern.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="1023" column="38" selection-start-line="1023" selection-start-column="16" selection-end-line="1023" selection-end-column="38" />
-              <folding>
-                <element signature="e#48487#48488#0" expanded="true" />
-                <element signature="e#48531#48532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge5/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+            <state relative-caret-position="408">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge6/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringTokens/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/PatternSyntaChecker/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/Solution.java" />
       </list>
     </option>
   </component>
@@ -250,6 +230,16 @@
               <item name="JavaProficiency" type="462c0819:PsiDirectoryNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaProficiency" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaRegex" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -257,8 +247,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552122257852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552123563461" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="JavaProficiency.Strings.JavaRegex" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,13 +267,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProficiency.Strings.JavaSubStringComparisons.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProficiency.Strings.JavaRegex.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProficiency.Strings.JavaSubStringComparisons.*" />
+          <option name="PATTERN" value="JavaProficiency.Strings.JavaRegex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +421,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33150986" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33150986" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -785,10 +780,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/MyRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/PatternSyntaChecker/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
