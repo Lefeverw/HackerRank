@@ -8,7 +8,7 @@ import java.util.*;
 public class Solution {
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Person. */
         int counter=0;
         while (scanner.hasNext()){
             counter++;
