@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge10/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge9/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/BreakingTheRecords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTwoLinkedLists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/DivisibleSumPairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/MergeTwoSortedLinkedLists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseALinkedList/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/TheBirthdayBar/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge11/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseALinkedList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+            <state relative-caret-position="1683">
+              <caret line="105" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,10 +44,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedList/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTwoLinkedLists/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="1105">
+              <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/MergeTwoSortedLinkedLists/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BreakingTheRecords/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TheBirthdayBar/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DivisibleSumPairs/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="43" column="9" selection-start-line="37" selection-start-column="8" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,10 +104,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="67" column="24" selection-start-line="65" selection-start-column="11" selection-end-line="67" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,15 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge11/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge12/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Challenge13/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/SimpleArraySum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/SimpleArraySum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTheTriplets/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/AVeryBigSum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge4/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringsIntroduction/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaSubstring/Solution.java" />
@@ -122,14 +187,23 @@
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/LeftRotation/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/SparseArrays/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ArrayManipulation/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge9/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge10/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge11/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseALinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTwoLinkedLists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/MergeTwoSortedLinkedLists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/BreakingTheRecords/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/TheBirthdayBar/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DivisibleSumPairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Statistics/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java" />
       </list>
     </option>
   </component>
@@ -151,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +266,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="ChangingBits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
               <item name="InsertANodeAtTheEndOfALinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -217,6 +301,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintTheElementsOfALinkedListInReverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseALinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="MeanMedianAndMode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ThirtyDaysOfCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -224,11 +343,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552416288347" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552505967634" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -248,13 +366,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.ArrayManipulation.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.MergeTwoSortedLinkedLists.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.ArrayManipulation.*" />
+          <option name="PATTERN" value="ProblemSolving.MergeTwoSortedLinkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,11 +381,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.PrintTheElementsOfALinkedList.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.BreakingTheRecords.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.PrintTheElementsOfALinkedList.*" />
+          <option name="PATTERN" value="ProblemSolving.BreakingTheRecords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,11 +394,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.InsertANodeAtASpecificPositionInALinkedList.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.TheBirthdayBar.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.InsertANodeAtASpecificPositionInALinkedList.*" />
+          <option name="PATTERN" value="ProblemSolving.TheBirthdayBar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +407,11 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.PrintTheElementsOfALinkedListInReverse.Solution" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.DivisibleSumPairs.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.PrintTheElementsOfALinkedListInReverse.*" />
+          <option name="PATTERN" value="ProblemSolving.DivisibleSumPairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,24 +420,11 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.SparseArrays.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Statistics.MeanMedianAndMode.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.SparseArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProficiency.Introduction.Challenge9.Solution" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProficiency.Introduction.Challenge9.*" />
+          <option name="PATTERN" value="Statistics.MeanMedianAndMode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,11 +473,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -391,8 +496,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22228146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -532,6 +638,30 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseALinkedList/Solution.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/MergeTwoSortedLinkedLists/Solution.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PlusMinus/Solution.java</url>
           <line>16</line>
@@ -544,82 +674,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaStringsIntroduction/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DiagonalDifference/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge2/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge3/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge4/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge5/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge5/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="1023" column="38" selection-start-line="1023" selection-start-column="16" selection-end-line="1023" selection-end-column="38" />
-          <folding>
-            <element signature="e#48487#48488#0" expanded="true" />
-            <element signature="e#48531#48532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Strings/JavaRegex/MyRegex.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaProficiency/Introduction/Challenge6/Solution.java">
@@ -762,13 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="547" column="23" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ChangingBits/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -917,31 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -954,18 +976,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        <state relative-caret-position="1326">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedList/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ChangingBits/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="450">
+          <caret line="54" column="58" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge11/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -974,8 +1003,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        <state relative-caret-position="354">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="72" selection-start-column="6" selection-end-line="100" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PrintTheElementsOfALinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseALinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="105" column="5" selection-start-line="71" selection-start-column="4" selection-end-line="105" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/CompareTwoLinkedLists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/MergeTwoSortedLinkedLists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="71" column="2" selection-start-line="71" selection-start-column="2" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BreakingTheRecords/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TheBirthdayBar/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DivisibleSumPairs/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="9" selection-start-line="37" selection-start-column="8" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="67" column="24" selection-start-line="65" selection-start-column="11" selection-end-line="67" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Statistics/MeanMedianAndMode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

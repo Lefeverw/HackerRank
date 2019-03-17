@@ -3,6 +3,7 @@ package ProblemSolving.InsertANodeAtTheHeadOfALinkedList;
 /**
  * @author lefeverw
  */
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -59,13 +60,13 @@ public class Solution {
      *
      */
     static SinglyLinkedListNode insertNodeAtHead(SinglyLinkedListNode llist, int data) {
-if(llist==null){
-    return new SinglyLinkedListNode(data);
-}else{
-    SinglyLinkedListNode head = new SinglyLinkedListNode(data);
-    head.next=llist;
-    return head;
-}
+        if (llist == null) {
+            return new SinglyLinkedListNode(data);
+        } else {
+            SinglyLinkedListNode head = new SinglyLinkedListNode(data);
+            head.next = llist;
+            return head;
+        }
 
     }
 
@@ -87,7 +88,6 @@ if(llist==null){
 
             llist.head = llist_head;
         }
-
 
 
         printSinglyLinkedList(llist.head, "\n", bufferedWriter);

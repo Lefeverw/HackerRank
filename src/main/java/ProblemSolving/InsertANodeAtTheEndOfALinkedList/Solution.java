@@ -3,6 +3,7 @@ package ProblemSolving.InsertANodeAtTheEndOfALinkedList;
 /**
  * @author lefeverw
  */
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -57,16 +58,16 @@ public class Solution {
      *
      */
     static SinglyLinkedListNode insertNodeAtTail(SinglyLinkedListNode head, int data) {
-if(head==null){
-    head = new SinglyLinkedListNode(data);
-}else{
-    SinglyLinkedListNode currentNode = head;
-    while(currentNode.next!=null){
-        currentNode=currentNode.next;
-    }
-    currentNode.next=new SinglyLinkedListNode(data);
-}
-return head;
+        if (head == null) {
+            head = new SinglyLinkedListNode(data);
+        } else {
+            SinglyLinkedListNode currentNode = head;
+            while (currentNode.next != null) {
+                currentNode = currentNode.next;
+            }
+            currentNode.next = new SinglyLinkedListNode(data);
+        }
+        return head;
 
     }
 
@@ -88,7 +89,6 @@ return head;
 
             llist.head = llist_head;
         }
-
 
 
         printSinglyLinkedList(llist.head, "\n", bufferedWriter);
