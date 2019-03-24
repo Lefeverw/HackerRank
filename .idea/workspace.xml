@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DayOfTheProgrammer/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ProblemSolving/DayOfTheProgrammer/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,17 +18,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="76" column="31" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="31" />
+            <state relative-caret-position="1292">
+              <caret line="76" column="31" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="425">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/Kangaroo/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/BetweenTwoSets/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ArraysDS/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/TwoDArrayDS/Solution.java" />
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DayOfTheProgrammer/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java" />
       </list>
     </option>
   </component>
@@ -135,7 +145,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,10 +256,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553450251601" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553451430044" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -271,13 +281,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.TreeLevelOrderTraversal.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.BonAppetit.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.TreeLevelOrderTraversal.*" />
+          <option name="PATTERN" value="ProblemSolving.BonAppetit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -388,8 +398,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24200426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +410,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3336945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3943662" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3943662" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -625,6 +636,12 @@
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PlusMinus/Solution.java</url>
           <line>16</line>
@@ -637,16 +654,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DynamicArray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/LeftRotation/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1108,13 +1115,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="76" column="31" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1122,10 +1122,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BinarySearchTreeLowestCommonAncestor/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="31" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
