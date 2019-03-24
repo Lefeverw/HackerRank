@@ -4,7 +4,6 @@ package ProblemSolving.BinarySearchTreeLowestCommonAncestor;
  * @author lefeverw
  */
 import java.util.*;
-import java.io.*;
 
 class Node {
     Node left;
@@ -28,6 +27,33 @@ class Solution {
     */
     public static Node lca(Node root, int v1, int v2) {
         // Write your code here.
+        if(preOrder(root.left,v1)&&preOrder(root.left,v2)){
+            return lca(root.left,v1,v2);
+        }
+        else if(preOrder(root.right,v1)&&preOrder(root.right,v2)){
+            return lca(root.right,v1,v2);
+        }else return root;
+    }
+
+    public static boolean preOrder(Node root, int v1) {
+        if(root==null)
+            return false;
+        if(root.data==v1)
+            return true;
+        if(root.left==null && root.right==null){
+            if(root.data==v1)
+                return true;
+            return false;
+        }
+        if(root.right!=null && root.left!=null){
+            return preOrder(root.left,v1) || preOrder(root.right,v1);
+        }
+        if(root.left!=null)
+            return preOrder(root.left,v1);
+        if(root.right!=null)
+            return preOrder(root.right,v1);
+        return false;
+
     }
 
     public static Node insert(Node root, int data) {
