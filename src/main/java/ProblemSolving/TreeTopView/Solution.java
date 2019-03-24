@@ -5,8 +5,10 @@ package ProblemSolving.TreeTopView;
  */
 
 //TODO solve
-import java.util.*;
-import java.io.*;
+
+import java.util.HashMap;
+import java.util.Scanner;
+
 
 class Node {
     Node left;
@@ -21,7 +23,6 @@ class Node {
 }
 
 class Solution {
-
     /*
 
     class Node
@@ -29,29 +30,36 @@ class Solution {
         Node left;
         Node right;
     */
-    public static void topView(Node root) {
-        if (root.left != null)
-            topView(root.left, 0);
-        System.out.print(root.data + " ");
-        if (root.right != null)
-            topView(root.right, 1);
+    static HashMap<Integer, int[]> covered = new HashMap<>();
 
+    public static void topView(Node root) {
+        covered.put(0, new int[]{0, root.data});
+        int horizontal = 0;
+        int vertical = 0;
+        if (root.left != null)
+            topView(root.left, horizontal - 1, vertical - 1);
+        if (root.right != null)
+            topView(root.right, vertical + 1, vertical - 1);
+        int minValue = covered.keySet().stream().mapToInt(Integer::intValue).min().getAsInt();
+        int maxValue = covered.keySet().stream().mapToInt(Integer::intValue).max().getAsInt();
+        for (int i = minValue; i <= maxValue; i++) {
+                System.out.print(covered.get(i)[1] + " ");
+        }
     }
 
-    private static void topView(Node root, int i) {
-        if (i == 0) {
-            if (root.left != null)
-                topView(root.left, 0);
-            System.out.print(root.data + " ");
-//            if (root.left == null && root.right != null)
-//                topView(root.right, 1);
-        }else{
-//            if(root.right==null && root.left !=null)
-//                topView(root.left, 0);
-            System.out.print(root.data + " ");
-            if (root.right != null)
-                topView(root.right, 1);
+    private static void topView(Node root, int horizontal, int vertical) {
+        if (!covered.containsKey(horizontal))
+            covered.put(horizontal, new int[]{vertical, root.data});
+        else {
+            if (covered.get(horizontal)[0] < vertical)
+                covered.put(horizontal, new int[]{vertical, root.data});
         }
+        if (root.left != null)
+            topView(root.left, horizontal - 1, vertical - 1);
+        if (root.right != null)
+            topView(root.right, horizontal + 1, vertical - 1);
+
+
     }
 
     public static Node insert(Node root, int data) {
