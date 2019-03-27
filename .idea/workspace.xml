@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/SockMerchant/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge20/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge22/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge23/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge24/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge25/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +20,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/SockMerchant/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="79" lean-forward="true" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+            <state relative-caret-position="229">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge20/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="19" column="9" lean-forward="true" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge22/Generics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#828#837#0" expanded="true" />
+                <element signature="e#892#900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge23/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge24/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="987">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge25/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,6 +123,9 @@
       <find>hour</find>
       <find>Calenda</find>
       <find>scan</find>
+      <find>height</find>
+      <find>level</find>
+      <find>remove</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -52,13 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ArraysDS/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/TwoDArrayDS/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DynamicArray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/LeftRotation/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/SparseArrays/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ArrayManipulation/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge9/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge10/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java" />
@@ -103,6 +178,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/MaximumElement/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/BonAppetit/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/SockMerchant/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge20/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge22/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge22/Generics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge23/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge24/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge25/Solution.java" />
       </list>
     </option>
   </component>
@@ -124,7 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,11 +318,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553451885003" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553704314054" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -261,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.BonAppetit.Solution" />
       <module name="HackerRank" />
@@ -288,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.DayOfTheProgrammer.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Challenge20.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.DayOfTheProgrammer.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Challenge20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.BinarySearchTreeLowestCommonAncestor.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Challenge21.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.BinarySearchTreeLowestCommonAncestor.*" />
+          <option name="PATTERN" value="ThirtyDaysOfCode.Challenge21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +437,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +462,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,8 +471,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3336945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3943662" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3336945" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3943662" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -622,6 +704,18 @@
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PlusMinus/Solution.java</url>
           <line>16</line>
@@ -634,63 +728,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/SparseArrays/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ArrayManipulation/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge9/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge10/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DeleteANodeFromALinkedList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ChangingBits/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="54" column="58" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge11/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1121,8 +1158,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/SockMerchant/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="79" lean-forward="true" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+        <state relative-caret-position="229">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge20/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge21/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="19" column="9" lean-forward="true" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge22/Generics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#828#837#0" expanded="true" />
+            <element signature="e#892#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge23/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge24/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge25/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
