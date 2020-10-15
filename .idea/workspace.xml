@@ -2,155 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ec77ae-a4d7-4e64-bc1c-c54f3f281f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/DrawingBook/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/ElectronicsShop/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/CatAndAMouse/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/DesignerPDFViewer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProblemSolving/TheHurdleRace/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge10/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge11/DoNotTerminate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge11/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge11/DoNotTerminate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge11/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge12/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge12/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge13/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge5/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge6/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge7/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge8/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Introduction/Challenge9/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaAnagrams/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaRegex/MyRegex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaRegex/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaStringReverse/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaStringTokens/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaStringsIntroduction/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaSubStringComparisons/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/JavaSubstring/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaProficiency/Strings/PatternSyntaChecker/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HackerRank.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/AVeryBigSum/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/AppleAndOrange/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ArrayManipulation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ArraysDS/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/BetweenTwoSets/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/BinaryTreeInsertion/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/BinaryTreeInsertion/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/BirthdayCakeCandles/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/BreakingTheRecords/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ChangingBits/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ChangingBits/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ChangingBits/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/CompareTheTriplets/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/CompareTwoLinkedLists/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/CompareTwoLinkedLists/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/CompareTwoLinkedLists/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DayOfTheProgrammer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteANodeFromALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteANodeFromALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteANodeFromALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteDuplicateValueNodesFromASortedLinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteDuplicateValueNodesFromASortedLinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DeleteDuplicateValueNodesFromASortedLinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DetectWhetherALinkedListContainsACycle/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DetectWhetherALinkedListContainsACycle/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DetectWhetherALinkedListContainsACycle/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DiagonalDifference/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DivisibleSumPairs/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/DynamicArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/FindTheMergePointOfTwoJoinedLinkedLists/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/FindTheMergePointOfTwoJoinedLinkedLists/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/FindTheMergePointOfTwoJoinedLinkedLists/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/GetTheValueOfTheNodeAtASpecificPositionFromTheTail/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/GetTheValueOfTheNodeAtASpecificPositionFromTheTail/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/GetTheValueOfTheNodeAtASpecificPositionFromTheTail/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/GradingStudents/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InOrderTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InOrderTraversal/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtASpecificPositionInALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheEndOfALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeAtTheHeadOfALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeIntoASorterDoublyLinkedList/Solution$DoublyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeIntoASorterDoublyLinkedList/Solution$DoublyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/InsertANodeIntoASorterDoublyLinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/Kangaroo/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/LeftRotation/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/MergeTwoSortedLinkedLists/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/MergeTwoSortedLinkedLists/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/MergeTwoSortedLinkedLists/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/MigratoryBirds/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/MiniMaxSum/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PlusMinus/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PostOrderTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PostOrderTraversal/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PreOrderTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PreOrderTraversal/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/PrintTheElementsOfALinkedListInReverse/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseADoubleLinkedList/Solution$DoublyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseADoubleLinkedList/Solution$DoublyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseADoubleLinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseALinkedList/Solution$SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseALinkedList/Solution$SinglyLinkedListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/ReverseALinkedList/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/SimpleArraySum/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/SparseArrays/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/Staircase/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TheBirthdayBar/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TimeConversion/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHeightOfABinaryTree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHeightOfABinaryTree/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHuffmanDecoding/Decoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHuffmanDecoding/HuffmanLeaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHuffmanDecoding/HuffmanNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHuffmanDecoding/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeHuffmanDecoding/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeLevelOrderTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeLevelOrderTraversal/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeTopView/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TreeTopView/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ProblemSolving/TwoDArrayDS/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Statistics/MeanMedianAndMode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge10/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge11/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge12/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge13/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge13/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge13/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge14/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge14/MyBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge14/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge15/Difference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge15/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge16/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge16/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge17/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge18/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge18/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge19/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge2/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge3/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge5/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge6/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge7/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge8/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThirtyDaysOfCode/Challenge9/Solution.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -175,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DrawingBook/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+              <caret line="34" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#553#554#0" expanded="true" />
@@ -185,11 +41,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ElectronicsShop/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/CatAndAMouse/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TheHurdleRace/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DesignerPDFViewer/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="16" column="71" lean-forward="true" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -244,10 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DetectWhetherALinkedListContainsACycle/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/FindTheMergePointOfTwoJoinedLinkedLists/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/InsertANodeIntoASorterDoublyLinkedList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ReverseADoubleLinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge16/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge17/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThirtyDaysOfCode/Challenge18/Solution.java" />
@@ -295,6 +192,10 @@
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DrawingBook/DrawingBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DrawingBook/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/ElectronicsShop/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/CatAndAMouse/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/TheHurdleRace/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProblemSolving/DesignerPDFViewer/Solution.java" />
       </list>
     </option>
   </component>
@@ -351,6 +252,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+              <item name="DesignerPDFViewer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -358,7 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602783262237" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602789227977" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -380,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="agfa.Main" />
       <module name="HackerRank" />
@@ -394,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysOfCode.Challenge30.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.PickingNumbers.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysOfCode.Challenge30.*" />
+          <option name="PATTERN" value="ProblemSolving.PickingNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.BalancedBrackets.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.DesignerPDFViewer.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemSolving.BalancedBrackets.*" />
+          <option name="PATTERN" value="ProblemSolving.DesignerPDFViewer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -474,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -500,21 +410,23 @@
     <editor active="true" />
     <layout>
       <window_info id="Azure Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" />
       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" />
       <window_info anchor="bottom" id="Avro/Parquet Viewer" />
       <window_info anchor="bottom" id="Job test results" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" />
       <window_info anchor="bottom" id="Azure Activity Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3336945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3943662" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3943662" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -523,7 +435,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Json Parser" />
       <window_info anchor="right" id="make" />
       <window_info anchor="right" id="Jenkins" />
@@ -793,6 +705,26 @@
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/DesignerPDFViewer/Solution.java</url>
+          <line>16</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ProblemSolving/PlusMinus/Solution.java</url>
           <line>16</line>
@@ -804,50 +736,61 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>word.charAt(0)-97</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>subList.get(integer) - difference</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pickingNumbersStartingFrom(subList,i,i1,-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).map(index -&gt; subList.get(index) == subList.get(integer) - difference).findFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).filter(index -&gt; subList.get(index) == subList.get(integer) - difference).findFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).filter(index -&gt; subList.get(index) == integer - difference).boxed().collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).filter(index -&gt; subList.get(index) == integer - difference).collect(Collectors.toList())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).count();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size()).collect(Collectors.toList());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>IntStream.range(integer, subList.size())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TreeHeightOfABinaryTree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TreeLevelOrderTraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="72" column="5" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="72" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/BinaryTreeInsertion/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TreeHuffmanDecoding/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Calendar.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DayOfTheProgrammer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1208,7 +1151,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DrawingBook/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <caret line="34" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#553#554#0" expanded="true" />
@@ -1220,7 +1163,44 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/ElectronicsShop/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/CatAndAMouse/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/TheHurdleRace/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/PickingNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProblemSolving/DesignerPDFViewer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="16" column="71" lean-forward="true" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
