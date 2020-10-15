@@ -19,6 +19,31 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>28.2-jre</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.tomtom.dtrfleads</groupId>
+            <artifactId>dtrf-features-supplier</artifactId>
+            <version>3.57-azure</version>
+        </dependency>
+        <dependency>
+            <groupId>com.tomtom.maintenance</groupId>
+            <artifactId>osm-changesets</artifactId>
+            <version>1.0.66</version>
+        </dependency>
+
+    </dependencies>
 
 
 </project>
